@@ -15,6 +15,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/a1k2-c3/Leetcode/tree/main/1160-find-words-that-can-be-formed-by-characters/) | Easy |
 | [1189-maximum-number-of-balloons](https://github.com/a1k2-c3/Leetcode/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [1202-smallest-string-with-swaps](https://github.com/a1k2-c3/Leetcode/tree/main/1202-smallest-string-with-swaps/) | Medium |
+| [1346-check-if-n-and-its-double-exist](https://github.com/a1k2-c3/Leetcode/tree/main/1346-check-if-n-and-its-double-exist/) | Easy |
 | [1399-count-largest-group](https://github.com/a1k2-c3/Leetcode/tree/main/1399-count-largest-group/) | Easy |
 | [1436-destination-city](https://github.com/a1k2-c3/Leetcode/tree/main/1436-destination-city/) | Easy |
 | [1512-number-of-good-pairs](https://github.com/a1k2-c3/Leetcode/tree/main/1512-number-of-good-pairs/) | Easy |
@@ -64,6 +65,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0015-3sum](https://github.com/a1k2-c3/Leetcode/tree/main/0015-3sum/) | Medium |
 | [0242-valid-anagram](https://github.com/a1k2-c3/Leetcode/tree/main/0242-valid-anagram/) | Easy |
 | [1202-smallest-string-with-swaps](https://github.com/a1k2-c3/Leetcode/tree/main/1202-smallest-string-with-swaps/) | Medium |
+| [1346-check-if-n-and-its-double-exist](https://github.com/a1k2-c3/Leetcode/tree/main/1346-check-if-n-and-its-double-exist/) | Easy |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/a1k2-c3/Leetcode/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1626-best-team-with-no-conflicts](https://github.com/a1k2-c3/Leetcode/tree/main/1626-best-team-with-no-conflicts/) | Medium |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/a1k2-c3/Leetcode/tree/main/1838-frequency-of-the-most-frequent-element/) | Medium |
@@ -149,6 +151,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/a1k2-c3/Leetcode/tree/main/1160-find-words-that-can-be-formed-by-characters/) | Easy |
 | [1202-smallest-string-with-swaps](https://github.com/a1k2-c3/Leetcode/tree/main/1202-smallest-string-with-swaps/) | Medium |
 | [1260-shift-2d-grid](https://github.com/a1k2-c3/Leetcode/tree/main/1260-shift-2d-grid/) | Easy |
+| [1346-check-if-n-and-its-double-exist](https://github.com/a1k2-c3/Leetcode/tree/main/1346-check-if-n-and-its-double-exist/) | Easy |
 | [1436-destination-city](https://github.com/a1k2-c3/Leetcode/tree/main/1436-destination-city/) | Easy |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/a1k2-c3/Leetcode/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1512-number-of-good-pairs](https://github.com/a1k2-c3/Leetcode/tree/main/1512-number-of-good-pairs/) | Easy |
@@ -186,6 +189,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/a1k2-c3/Leetcode/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/a1k2-c3/Leetcode/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
+| [1346-check-if-n-and-its-double-exist](https://github.com/a1k2-c3/Leetcode/tree/main/1346-check-if-n-and-its-double-exist/) | Easy |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/a1k2-c3/Leetcode/tree/main/1838-frequency-of-the-most-frequent-element/) | Medium |
 | [2861-maximum-number-of-alloys](https://github.com/a1k2-c3/Leetcode/tree/main/2861-maximum-number-of-alloys/) | Medium |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/a1k2-c3/Leetcode/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
@@ -244,6 +248,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0026-remove-duplicates-from-sorted-array](https://github.com/a1k2-c3/Leetcode/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/a1k2-c3/Leetcode/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0283-move-zeroes](https://github.com/a1k2-c3/Leetcode/tree/main/0283-move-zeroes/) | Easy |
+| [1346-check-if-n-and-its-double-exist](https://github.com/a1k2-c3/Leetcode/tree/main/1346-check-if-n-and-its-double-exist/) | Easy |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/a1k2-c3/Leetcode/tree/main/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/a1k2-c3/Leetcode/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/a1k2-c3/Leetcode/tree/main/3635-earliest-finish-time-for-land-and-water-rides-ii/) | Medium |
