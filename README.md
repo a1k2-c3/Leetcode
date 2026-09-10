@@ -151,6 +151,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/a1k2-c3/Leetcode/tree/main/1160-find-words-that-can-be-formed-by-characters/) | Easy |
 | [1202-smallest-string-with-swaps](https://github.com/a1k2-c3/Leetcode/tree/main/1202-smallest-string-with-swaps/) | Medium |
 | [1260-shift-2d-grid](https://github.com/a1k2-c3/Leetcode/tree/main/1260-shift-2d-grid/) | Easy |
+| [1313-decompress-run-length-encoded-list](https://github.com/a1k2-c3/Leetcode/tree/main/1313-decompress-run-length-encoded-list/) | Easy |
 | [1346-check-if-n-and-its-double-exist](https://github.com/a1k2-c3/Leetcode/tree/main/1346-check-if-n-and-its-double-exist/) | Easy |
 | [1436-destination-city](https://github.com/a1k2-c3/Leetcode/tree/main/1436-destination-city/) | Easy |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/a1k2-c3/Leetcode/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
